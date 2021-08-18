@@ -1,0 +1,12 @@
+C:\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.exe
+C:\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.deps.json
+C:\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.json
+C:\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.dev.json
+C:\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+C:\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.genruntimeconfig.cache
